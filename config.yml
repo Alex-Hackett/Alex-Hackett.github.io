@@ -27,10 +27,10 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "My name is Alexander Hackett, I'm a postdoctoral research scientist, an astronomer, a stellar physicist, a research software developer, and a passionate scientist, science communicator, and public speaker."
+    author: Alexander J. Hackett
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "January 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -52,8 +52,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Dr. Alexander J. Hackett
+          subtitle: "I am currently a postdoctoral researcher at the Institute of Physics of the Czech Academy of Sciences in Prague, working on developing stellar evolution models as tests of fundamental physics, specifically, using such models to investigate the field density of primordial black holes and time evolution of fundamental constants. We are also making use of asteroseismology codes, primarily GYRE, in order to attempt to split the degeneracy we observe between the effects of code-specific variables, and that of actual physical effects induced by the presence of a primordial black hole.
+Prior to this position, I completed my Ph.D. at the Institute of Astronomy of the University of Cambridge, under the supervision of Chris Tout and Anna Żytkow, with stellar evolution and modelling, specifically of (exotic) compact objects and hybrid stars being the main focus of my research and thesis."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -101,7 +102,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Alexander J. Hackett"
       icon: favicon.ico
       iconHeight: 18
 
