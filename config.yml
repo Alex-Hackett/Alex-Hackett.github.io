@@ -23,7 +23,7 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: 
           weight: 6
 
 params:
@@ -72,13 +72,13 @@ Prior to this position, I completed my Ph.D. at the Institute of Astronomy of th
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: 
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:ahackett@tcd.ie
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
