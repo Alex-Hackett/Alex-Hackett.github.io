@@ -60,17 +60,17 @@ Prior to this position, I completed my Ph.D. at the Institute of Astronomy of th
           #imageHeight: 160
           buttons:
             - name: Papers
-              url: papers/
+              url: 
             - name: Courses
-              url: courses/
+              url: 
             - name: Data
-              url: data/
+              url: 
             - name: Books
-              url: books/
+              url: 
             - name: Tags
-              url: tags/
+              url: 
             - name: Archive
-              url: archive/
+              url: 
             - name: Blog
               url: 
 
@@ -82,17 +82,17 @@ Prior to this position, I completed my Ph.D. at the Institute of Astronomy of th
         - name: Zoom
           url: https://cam-ac-uk.zoom.us/j/5783087810?pwd=MHQ3aUE0MEJiTDA3eUVCT1k1Z2luUT09
         - name: Location
-          url: location/
+          url: 
         - name: Office Hours
-          url: officehours/
+          url: 
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: 
         - name: GitHub
           url: https://github.com/Alex-Hackett
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: 
         - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: 
         - name: Twitter
           url: https://x.com/CantEvenHackett
 
