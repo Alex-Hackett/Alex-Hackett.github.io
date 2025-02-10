@@ -60,19 +60,11 @@ Prior to this position, I completed my Ph.D. at the Institute of Astronomy of th
           imageHeight: 180
           buttons:
             - name: Papers
-              url: 
-            - name: Courses
-              url: 
-            - name: Data
-              url: 
-            - name: Books
-              url: 
-            - name: Tags
-              url: 
-            - name: Archive
-              url: 
+              url: https://arxiv.org/search/?searchtype=author&query=Hackett%2C+A&abstracts=show&size=200&order=-announced_date_first
+            - name: Thesis
+              url: thesis.pdf
             - name: Blog
-              url: 
+              url: https://alexjhackett.medium.com
 
     socialIcons:
         - name: CV
@@ -81,18 +73,8 @@ Prior to this position, I completed my Ph.D. at the Institute of Astronomy of th
           url: mailto:ahackett@tcd.ie
         - name: Zoom
           url: https://cam-ac-uk.zoom.us/j/5783087810?pwd=MHQ3aUE0MEJiTDA3eUVCT1k1Z2luUT09
-        - name: Location
-          url: 
-        - name: Office Hours
-          url: 
-        - name: Google Scholar
-          url: 
         - name: GitHub
           url: https://github.com/Alex-Hackett
-        - name: Substack
-          url: 
-        - name: YouTube
-          url: 
         - name: Twitter
           url: https://x.com/CantEvenHackett
 
